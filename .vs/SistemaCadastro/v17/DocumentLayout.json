@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\source\\repos\\SistemaCadastro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70BFBB9F-5875-47A7-97E1-4B53FD64C84D}|SistemaCadastro.csproj|c:\\users\\vitor\\source\\repos\\sistemacadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BFBB9F-5875-47A7-97E1-4B53FD64C84D}|SistemaCadastro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BFBB9F-5875-47A7-97E1-4B53FD64C84D}|SistemaCadastro.csproj|c:\\users\\vitor\\source\\repos\\sistemacadastro\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BFBB9F-5875-47A7-97E1-4B53FD64C84D}|SistemaCadastro.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BFBB9F-5875-47A7-97E1-4B53FD64C84D}|SistemaCadastro.csproj|c:\\users\\vitor\\source\\repos\\sistemacadastro\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BFBB9F-5875-47A7-97E1-4B53FD64C84D}|SistemaCadastro.csproj|solutionrelative:lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BFBB9F-5875-47A7-97E1-4B53FD64C84D}|SistemaCadastro.csproj|c:\\users\\vitor\\source\\repos\\sistemacadastro\\inicializar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BFBB9F-5875-47A7-97E1-4B53FD64C84D}|SistemaCadastro.csproj|solutionrelative:inicializar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70BFBB9F-5875-47A7-97E1-4B53FD64C84D}|SistemaCadastro.csproj|c:\\users\\vitor\\source\\repos\\sistemacadastro\\validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BFBB9F-5875-47A7-97E1-4B53FD64C84D}|SistemaCadastro.csproj|solutionrelative:validar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Validar.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaCadastro\\Validar.cs",
+              "RelativeDocumentMoniker": "Validar.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaCadastro\\Validar.cs",
+              "RelativeToolTip": "Validar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:54:38.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inicializar.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaCadastro\\Inicializar.cs",
+              "RelativeDocumentMoniker": "Inicializar.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaCadastro\\Inicializar.cs",
+              "RelativeToolTip": "Inicializar.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:08:35.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaCadastro\\Lista.cs",
+              "RelativeDocumentMoniker": "Lista.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaCadastro\\Lista.cs*",
+              "RelativeToolTip": "Lista.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:47:48.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaCadastro\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaCadastro\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:44:03.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\SistemaCadastro\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\SistemaCadastro\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T20:42:35.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
