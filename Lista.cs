@@ -1,12 +1,8 @@
-﻿using System.IO;
-
-namespace SistemaCadastro
+﻿namespace SistemaCadastro
 {
     class Lista
     {
         private List<Cliente> ContasArmazenadas = new List<Cliente>();
-
-        private string Path = @"C:\Users\vitor\Documents\Banco\ContasSalvas.txt";
 
         public Lista()
         {
@@ -27,7 +23,7 @@ namespace SistemaCadastro
 
         public bool VerificarLista()
         {
-            if(!ContasArmazenadas.Any()) { return true;}
+            if(ContasArmazenadas.Count() == 0) { return true;}
             else {return false;}
         }
     }

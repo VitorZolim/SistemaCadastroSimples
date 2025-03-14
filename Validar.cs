@@ -13,6 +13,14 @@
             }
             return false;
         }
+        public static bool VerificarConta(string _nome, string _idade, string _email)
+        {
+            if (string.IsNullOrEmpty(_nome) || string.IsNullOrEmpty(_email) || !_email.Contains("@") || string.IsNullOrEmpty(_idade))
+            {
+                return true;
+            }
+            return false;
+        }
 
     }
 }
